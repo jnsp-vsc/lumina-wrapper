@@ -1,27 +1,15 @@
 {
-  "name": "lumina-wrapper",
-  "version": "1.0.0",
-  "description": "An API Wrapper for the Luminabot API",
-  "main": "lumina.js",
+  "name": "lumina-wrapper.js",
+  "version": "1.0.4",
+  "description": "A NPM to handle https://luminabot.xyz/api",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jnsp-vsc/lumina-wrapper.git"
-  },
-  "keywords": [
-    "API",
-    "Wrapper",
-    "Lumina-APi"
-  ],
-  "author": "jnsp-vsc (jnsp#7777), Siris2314 (EndofLeTime#6747)",
+  "author": "caseyCantCode",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jnsp-vsc/lumina-wrapper/issues"
-  },
-  "homepage": "https://github.com/jnsp-vsc/lumina-wrapper#readme",
   "dependencies": {
-    "discord.js": "^12.5.3"
+    "canvas": "^2.8.0",
+    "node-fetch": "^2.6.1"
   }
 }
