@@ -61,7 +61,7 @@ All endpoints can be seen **[Here](https://luminabot.xyz/api/)**
 **Options** | **Description** | **Usage**
 :---: | --- | ---
 Image | Always returns An image | Image Generation & Manipulation
-json | Returns Raw Json Data | Json Output
+Json | Returns Raw Json Data | Json Output
 Text | Returns Modified Text | Text Manipulation
 Nsfw | Uhhh under construction | Not done *yet*
 
