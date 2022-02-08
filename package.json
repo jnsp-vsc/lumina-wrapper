@@ -9,7 +9,7 @@
   "author": "caseyCantCode",
   "license": "ISC",
   "dependencies": {
-    "canvas": "^2.8.0",
+    "canvas": "^2.9.0",
     "node-fetch": "^2.6.1"
   }
 }
